@@ -1,0 +1,5 @@
+[2021-05-27 14:52:41,087]root::INFO => socket instance created for client
+[2021-05-27 14:52:44,533]root::INFO => waiting for connection.....
+[2021-05-27 14:53:21,553]root::INFO => connection established with <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8900), raddr=('127.0.0.1', 46652)>
+[2021-05-27 14:53:26,401]root::INFO => discussion started.
+[2021-05-27 14:53:39,013]root::INFO => Connection closed[<<EOF>>]

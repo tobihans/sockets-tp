@@ -1,0 +1,10 @@
+[2021-05-27 14:53:10,254]root::INFO => socket instance created
+
+[2021-05-27 14:53:21,552]root::INFO => Attempting to connect to server 127.0.0.1:8900
+
+[2021-05-27 14:53:21,552]root::INFO => Connection succeeded
+
+[2021-05-27 14:53:22,921]root::INFO => Discussion started
+
+[2021-05-27 14:53:33,215]root::INFO => COnnection closed[<<EOF>>]
+
