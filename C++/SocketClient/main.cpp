@@ -31,7 +31,7 @@ int main(int argc, char *argv[])
                     const QString response{socket->readAll()};
                     // Lorsqu'on recoit la chaine de fin de communication, on quitte la boucle
                     if(response.indexOf(EOC) > -1) break;
-                    qDebug() << "Response : " << response;
+                    qDebug() << "Réponse : " << response;
                 }
                 else
                 {
